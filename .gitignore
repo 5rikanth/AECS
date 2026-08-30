@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Large models
+*.nemo
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Datasets
+GV_Eval_3h/
+Hindi-English_test/
+Hindi-English_train/
+
+# Audio
+*.wav
+*.mp3
+*.flac
+*.ogg
+
+# Archives / downloads
+*.tar
+*.tar.gz
+*.zip
+*.crdownload
+
+# NeMo source
+NeMo/
+
+# Generated results
+benchmark/results/
+
+# Secrets
+.env
+
+# OS
+.DS_Store
+Thumbs.db

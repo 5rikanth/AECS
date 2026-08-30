@@ -1,0 +1,4 @@
+English|I am at the railway station and I need help someone has been following me for the last 10 minutes
+Hindi|मैं रेलवे स्टेशन पर हूं और मुझे मदद चाहिए पिछले दस मिनट से कोई मेरा पीछा कर रहा है
+Hinglish|रेलवे स्टेशन पर हूं और मुझे हेल्प चाहिए कोई पिछले टेन मिनट से मेरा पीछा कर रहा है
+
