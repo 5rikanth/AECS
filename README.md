@@ -8,11 +8,18 @@
 
 </div>
 
+<p align="center">
+  <img src="aecs_overview.png" alt="AECS Architecture Overview" width="900">
+</p>
+
+<p align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.x-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Qwen](https://img.shields.io/badge/Qwen-2.5--1.5B-6C5CE7?style=for-the-badge)](https://huggingface.co/Qwen)
 [![Qwen3 ASR](https://img.shields.io/badge/Qwen3-ASR-0.6B-00A98F?style=for-the-badge)](https://huggingface.co/moorlee/qwen3-asr-0.6b-hinglish)
+
+</p>
 
 ---
 
@@ -36,9 +43,6 @@ Rather than asking one model to perform every task, AECS separates the workflow 
 🔀 Fusion Agent
       ↓
 📋 Structured Emergency Response
-```
-
----
 
 ## ✨ Features
 
