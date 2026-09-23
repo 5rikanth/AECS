@@ -1,0 +1,27 @@
+TRAPPED PERSON RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Rescue, for anyone trapped/stuck — elevator, debris,
+flood water, a confined space, or behind a jammed door after an accident.
+
+Fire Brigade should be used instead of (or alongside, as "multiple")
+rescue when the trapping is inside a burning or structurally unstable
+building — fire brigades typically handle structural extraction in many
+jurisdictions.
+
+Ambulance should be added ("multiple") whenever breathing difficulty,
+injury, or prolonged entrapment (implying possible medical distress) is
+mentioned.
+
+Severity indicators:
+- CRITICAL: breathing difficulty, rising water level, unstable/collapsing
+  structure, or injury mentioned alongside being trapped.
+- HIGH: trapped with no immediate life-threat mentioned but no way out
+  and actively distressed.
+- MEDIUM: trapped in a low-risk situation (e.g. a stalled elevator with
+  no other danger mentioned).
+- LOW: rarely applies to this category.
+- UNKNOWN: "trapped" stated with zero further detail.
+
+Notes: Being trapped is inherently urgent; do not let a lack of
+additional detail lower severity below MEDIUM — use UNKNOWN only when
+truly no context exists, not as a default "safe" assumption.

@@ -1,0 +1,34 @@
+DOMESTIC EMERGENCY RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+This category covers emergencies occurring within the caller's own
+household: domestic violence, serious family disputes turning physical,
+child/elder abuse at home, and home-specific hazards (gas leak, electric
+shock, kitchen fire) that are domestic in nature rather than a generic
+fire/accident report.
+
+Primary service: Police, for violence, abuse, or a dangerous dispute
+between household members.
+
+Ambulance should be used instead of (or alongside, as "multiple") police
+when the transcript's primary content is a medical symptom (e.g. "saans
+lene mein takleef" — breathing difficulty) even if it happens to occur at
+home and the caller mentions being alone — a lone person having a medical
+symptom at home is a MEDICAL EMERGENCY, not domestic violence, unless
+another person's actions are described as the cause.
+
+Fire Brigade / multiple should be used for gas leaks, electric shocks, or
+kitchen fires at home.
+
+Severity indicators:
+- CRITICAL: active violence happening now, weapon involved, victim unable
+  to move/breathe, electric shock with unconsciousness.
+- HIGH: threat of imminent violence, gas leak actively smelled, injury
+  from earlier violence reported.
+- MEDIUM: verbal dispute escalating but not yet physical.
+- LOW: dispute described as calming down / already resolved.
+- UNKNOWN: no detail on what specifically is happening.
+
+Notes: Do not classify a lone person's medical symptom (breathing
+difficulty, chest pain, etc.) as domestic_emergency purely because they
+mention being alone at home — check whether another person's action
+caused the situation. If not, this is medical_emergency instead.

@@ -1,0 +1,20 @@
+NATURAL DISASTER RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Rescue, for flood, earthquake, landslide, storm damage,
+or structural collapse caused by weather/natural events.
+
+Use "multiple" (rescue + ambulance) whenever injuries or trapped people
+are mentioned alongside the disaster.
+
+Severity indicators:
+- CRITICAL: people trapped in debris/water, structural collapse with
+  people inside, rapidly rising water.
+- HIGH: significant property damage described, ongoing dangerous
+  conditions (e.g. water still rising, aftershocks).
+- MEDIUM: damage reported but situation described as currently stable.
+- LOW: minor damage, no danger to people described.
+- UNKNOWN: event mentioned with no detail on current danger level.
+
+Notes: Natural disaster reports mentioning any people still in danger
+(trapped, in rising water, under debris) should always be CRITICAL
+regardless of how the rest of the transcript is phrased.

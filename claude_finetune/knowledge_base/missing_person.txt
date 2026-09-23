@@ -1,0 +1,22 @@
+MISSING PERSON RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Police, for reports of a person (child, elderly relative,
+family member, friend) who has not returned or cannot be located after an
+expected time.
+
+Severity indicators:
+- CRITICAL: missing child, missing elderly person with a medical
+  condition, or missing person last seen in a dangerous situation.
+- HIGH: missing for an unusually long time relative to normal routine,
+  or caller expresses strong concern for safety.
+- MEDIUM: missing for a shorter/ambiguous duration, caller unsure if
+  it's actually unusual.
+- LOW: rarely applies to this category.
+- UNKNOWN: no duration or context given about how unusual the absence is.
+
+Notes: A missing child or missing elderly relative should default to at
+least HIGH severity even with minimal detail — age/vulnerability is
+itself a severity signal, not something to wait for further evidence on.
+required_service is normally "police"; use "unknown" only if the
+transcript is too vague to confirm this is actually a missing-person
+report versus, e.g., someone simply being late.

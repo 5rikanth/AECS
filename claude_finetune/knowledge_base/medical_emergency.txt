@@ -1,0 +1,27 @@
+MEDICAL EMERGENCY RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Ambulance, in almost all cases. This category covers
+breathing difficulty, chest pain, unconsciousness, seizures, severe
+allergic reaction, poisoning, labour/pregnancy complications, diabetic
+emergencies, stroke symptoms, and severe uncontrolled bleeding not tied to
+an accident.
+
+Secondary service: Police is rarely needed unless the caller specifically
+mentions a crime connection (e.g. assault causing the medical emergency) —
+in that case use "multiple".
+
+Severity indicators:
+- CRITICAL: unconsciousness, not breathing or severe breathing difficulty,
+  seizure in progress, stroke symptoms (one-sided weakness/numbness),
+  suspected poisoning, heavy bleeding, known heart patient in acute
+  distress.
+- HIGH: active labour pain, asthma attack, severe allergic reaction,
+  diabetic emergency with low sugar, persistent severe pain.
+- MEDIUM: high fever not responding to home care, vomiting/dizziness,
+  general weakness without a named acute symptom above.
+- LOW: mild/manageable symptoms explicitly described as not severe.
+- UNKNOWN: caller mentions "medical help needed" with no symptom detail.
+
+Notes: Breathing difficulty ("saans lene mein takleef/problem") on its own,
+even without other detail, should be treated as at least HIGH severity —
+respiratory distress is one of the least safe symptoms to under-triage.

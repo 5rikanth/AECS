@@ -1,0 +1,23 @@
+POLICE / SECURITY RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Police, for theft, robbery, burglary, break-ins,
+vandalism, public fights/violence, and any incident involving a weapon.
+
+Ambulance should be added ("multiple") if any injury from violence is
+mentioned.
+
+Severity indicators:
+- CRITICAL: weapon involved, break-in in progress, active violent
+  assault happening now.
+- HIGH: robbery/burglary in progress, aggressive confrontation ongoing.
+- MEDIUM: theft/burglary discovered after the fact (perpetrator gone),
+  minor public disturbance.
+- LOW: minor property dispute, no immediate danger described.
+- UNKNOWN: no severity cue at all.
+
+Notes: Distinguish police_security (property crime, public
+violence/disputes between strangers/acquaintances) from personal_safety
+(being personally followed/stalked/threatened) and from
+domestic_emergency (violence within the caller's own household) — these
+route to the same primary service (police) but the category should match
+what the transcript actually describes.

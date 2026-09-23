@@ -1,0 +1,27 @@
+FIRE RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Fire Brigade, for any confirmed fire, smoke, gas leak
+with fire risk, or explosion (cylinder blast, short circuit fire).
+
+Secondary service: Ambulance should be added ("multiple") whenever the
+caller mentions being unable to breathe, being trapped inside, injuries,
+or anyone still inside the burning structure — smoke inhalation and burns
+are common in fire incidents even when not explicitly stated as "injury".
+
+Police may be added if the fire appears to be arson/deliberate, or if
+there's a crowd-control/evacuation concern mentioned.
+
+Severity indicators:
+- CRITICAL: caller or others trapped inside, cannot exit, heavy smoke,
+  breathing difficulty due to smoke, explosion, fire spreading fast.
+- HIGH: active fire confirmed but caller/occupants are outside and safe,
+  fire still spreading.
+- MEDIUM: small/contained fire, caller unsure how serious.
+- LOW: fire already out or very minor (e.g. small kitchen flare-up
+  explicitly described as controlled).
+- UNKNOWN: only "smoke smell" or ambiguous mention, no confirmation.
+
+Notes: A caller reporting fire AND that they personally cannot exit the
+building should always be treated as CRITICAL with required_service
+"multiple" (fire_brigade + ambulance), regardless of whether they
+separately mention an injury.

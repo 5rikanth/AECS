@@ -1,0 +1,26 @@
+PERSONAL SAFETY / THREAT RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Police, for being followed, stalked, threatened,
+harassed, or feeling generally unsafe due to another person's behavior,
+where no injury or property crime has occurred yet.
+
+Ambulance should be added only if the caller mentions an actual physical
+injury already sustained.
+
+Severity indicators:
+- CRITICAL: caller says someone is trying to grab/attack them right now,
+  or a weapon is mentioned.
+- HIGH: active following/stalking in progress, explicit threats made,
+  caller sounds scared and is currently in the situation ("abhi",
+  "right now", present tense).
+- MEDIUM: caller describes a threat that already ended, or vague unease
+  without a specific ongoing action.
+- LOW: caller mentions discomfort but explicitly says they are now safe.
+- UNKNOWN: no severity cue at all.
+
+Notes: An active "being followed right now" or "someone is stalking me"
+report, by itself, should default to at least HIGH severity even with no
+other detail — the ongoing/ present-tense nature of the threat is itself
+the severity signal. Do not default this category to UNKNOWN severity
+just because no injury is mentioned; personal-safety threats are urgent
+by nature when described as currently happening.

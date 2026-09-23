@@ -1,0 +1,20 @@
+UNKNOWN / OTHER RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+This category is for transcripts that are genuinely too vague, garbled,
+or incomplete to confidently assign to any specific category above — not
+a default fallback for anything merely unfamiliar. Check each specific
+category's protocol first; only use unknown_other if none plausibly fit.
+
+Primary service: unknown, unless the transcript gives enough to infer one
+(in which case reconsider the category first — a service can usually be
+inferred once the actual category is correctly identified).
+
+Severity: usually "unknown", since by definition there isn't enough
+information to assess urgency confidently.
+
+Notes: A short or partial transcript is not automatically unknown_other —
+e.g. "accident hua hai" (no further detail) is still clearly an accident
+report and belongs in accident.txt's protocol, just with UNKNOWN severity
+and a precautionary ambulance recommendation, not unknown_other. Reserve
+this category for transcripts where the TYPE of emergency itself isn't
+determinable, not merely where details are sparse.

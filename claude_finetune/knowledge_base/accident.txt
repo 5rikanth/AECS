@@ -1,0 +1,29 @@
+ACCIDENT RESPONSE PROTOCOL (Reference Knowledge Base — academic prototype)
+
+Primary service: Ambulance is the default response for any accident
+involving injury, unconsciousness, bleeding, or a caller who reports pain.
+
+Secondary service: Police should additionally be notified for hit-and-run
+incidents, accidents blocking traffic with multiple vehicles, or when a
+driver has fled the scene. Use "multiple" as required_service when both
+apply.
+
+Fire Brigade should be added instead of/alongside ambulance if the vehicle
+has caught fire, fuel is leaking near an ignition source, or the caller
+mentions smoke/fire at the accident site.
+
+Severity indicators:
+- CRITICAL: unconsciousness, heavy/uncontrolled bleeding, suspected spinal
+  injury, entrapment inside the vehicle, multiple casualties.
+- HIGH: broken bones, moderate bleeding, visible trauma, caller reports
+  someone "cannot move" or "cannot get up".
+- MEDIUM: pain reported but caller/victim is conscious, mobile, and
+  describes the injury as manageable.
+- LOW: minor scrapes, no reported pain beyond shock, vehicle damage only,
+  no injury mentioned.
+- UNKNOWN: no injury information given at all and no other severity cue.
+
+Notes: If the transcript does not mention injuries, do not assume none
+exist. An accident with zero injury/severity information should default
+to ambulance dispatch as a precaution, with severity left UNKNOWN rather
+than assumed low.

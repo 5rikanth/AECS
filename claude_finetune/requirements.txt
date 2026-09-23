@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+peft
+qwen-asr
+sentence-transformers
+faiss-cpu
+numpy
+soundfile
